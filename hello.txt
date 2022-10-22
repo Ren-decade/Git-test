@@ -6,5 +6,3 @@ third
 
 master:conflict
 hot-fix:first:conflict
-
-h
