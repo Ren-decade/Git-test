@@ -4,4 +4,4 @@ second
 
 third
 
-hot-fix:first
+hot-fix:first:conflict
