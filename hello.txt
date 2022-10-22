@@ -4,6 +4,5 @@ second
 
 third
 
-hot-fix:first
-
 master:conflict
+hot-fix:first:conflict
