@@ -5,3 +5,5 @@ second
 third
 
 hot-fix:first
+
+master:conflict
