@@ -6,3 +6,5 @@ third
 
 master:conflict
 hot-fix:first:conflict
+
+git-test:github operation
